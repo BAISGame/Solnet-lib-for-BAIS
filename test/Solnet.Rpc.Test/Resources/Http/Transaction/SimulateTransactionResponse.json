@@ -1,0 +1,28 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "context": {
+      "slot": 79206888
+    },
+    "value": {
+      "accounts": [
+        {
+          "data": [ "", "base64" ],
+          "executable": false,
+          "lamports": 2551360,
+          "owner": "11111111111111111111111111111111",
+          "rentEpoch": 202
+        }
+      ],
+      "err": null,
+      "logs": [
+        "Program 11111111111111111111111111111111 invoke [1]",
+        "Program 11111111111111111111111111111111 success",
+        "Program Memo1UhkJRfHyvLMcVucJwxXeuD728EqVDDwQDxFMNo invoke [1]",
+        "Program Memo1UhkJRfHyvLMcVucJwxXeuD728EqVDDwQDxFMNo consumed 570 of 200000 compute units",
+        "Program Memo1UhkJRfHyvLMcVucJwxXeuD728EqVDDwQDxFMNo success"
+      ]
+    }
+  },
+  "id": 1
+}
